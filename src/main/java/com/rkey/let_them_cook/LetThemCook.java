@@ -34,7 +34,7 @@ import org.slf4j.Logger;
 public class LetThemCook
 {
     // Define mod id in a common place for everything to reference
-    public static final String MOD_ID = "my_very_first_test_mod";
+    public static final String MOD_ID = "let_them_cook";
     // Directly reference a slf4j logger
     private static final Logger LOGGER = LogUtils.getLogger();
     public LetThemCook()
